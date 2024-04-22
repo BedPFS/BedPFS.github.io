@@ -1,0 +1,2 @@
+- [About](/docs/about)
+- [How To Join](/docs/join)
