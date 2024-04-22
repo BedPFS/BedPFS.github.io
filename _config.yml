@@ -2,7 +2,6 @@ theme: minima
 minima:
   skin: auto
   header_pages:
-  - README.md
   - about.md
   - join.md
   
