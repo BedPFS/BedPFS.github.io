@@ -2,5 +2,5 @@ theme: minima
 minima:
   skin: auto
   header_pages:
-  - join.md
+  - about.md
   
