@@ -2,7 +2,5 @@ title: BedPFS
 description: >
   Docs Page
 theme: minima
-header_pages:
-  - README.md
 minima:
   skin: auto
