@@ -1,3 +1,11 @@
-  header_pages:
+title: BedPFS
+author:
+  name: A53o
+  email: support.BedPFS@proton.me
+description: >
+  Docs Page
+theme: minima
+header_pages:
   - about.md
-  
+minima:
+  skin: auto
