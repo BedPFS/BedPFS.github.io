@@ -3,6 +3,6 @@ description: >
   Docs Page
 theme: minima
 header_pages:
-  - about.md
+  - docs/about.md
 minima:
   skin: auto
