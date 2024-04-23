@@ -1,6 +1,6 @@
 ### This Are The Rules For The BedPFS Minecraft Server Aswell As The Discord
 
-##   ** **  Rules!
+## Rules!
 **1. Follow Discord's TOS**
 > <https://discordapp.com/terms>
 > <https://discordapp.com/guidelines>
