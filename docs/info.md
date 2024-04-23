@@ -1,4 +1,4 @@
-![BedPFS logo](/images/BedPfs.png)
+![BedPFS logo](/images/BedPFS_low_res.png.png)
 
 - [Back >>](/docs)
 
