@@ -1,4 +1,5 @@
 **BedPFS Docs**
+
 _What whould you like to know_
-- [About](/docs/about)
+- [Info About BedPFS](/docs/info)
 - [How To Join](/docs/join)
