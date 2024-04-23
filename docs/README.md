@@ -1,4 +1,4 @@
-**BedPFS Docs**
+## BedPFS Docs
 
 _What whould you like to know_
 - [Info About BedPFS](/docs/info)
