@@ -3,6 +3,7 @@
 ## Rules!
 **1. Follow Discord's TOS**
 > <https://discordapp.com/terms>
+> 
 > <https://discordapp.com/guidelines>
 
 **2. Be respectful with all members**
@@ -10,7 +11,7 @@
 > No doxxing, swatting, witch hunting
 
 **3. No Advertising**
-> Includes DM Advertising. We do not allow advertising here of any kind, except in <#1133129843798724618> 
+> Includes DM Advertising. We do not allow advertising here of any kind, except in # 🗣🔹self-promo
 
 **4. No NSFW content**
 > Anything involving gore or sexual content is not allowed.
@@ -28,7 +29,7 @@
 **8. No Self Bots**
 > Includes all kinds of selfbots: Nitro snipers, selfbots like nighty, auto changing statuses
 
-**9. Do not DM the staff team **
+**9. Do not DM the staff team**
 > Please open a ticket instead in
 
 **10. Profile Picture / Banner Rules**
