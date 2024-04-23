@@ -16,7 +16,7 @@ Come play on PC, macOS, Linux, iOS, Fridge, and more!**
 ### Bedwars
 **In Bedwars you spawn on islandsand you can have up to 3 teammates, you collect resources such as Iron, Gold, Emeralds and Diamonds, with those resources you buy items to defend your bed, to win brake the other teams beds then kill them to win!**
 
-### Fations
+### Factions
 **Factions is a system of mechanics that allows for the simulation of sovereign nations. Players can create nations, claim territory, engage in warfare or politics, write laws or hold dueling tournaments.**
 
 ### KitPvP
