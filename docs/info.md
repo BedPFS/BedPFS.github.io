@@ -6,7 +6,7 @@
 ### The Only Cross Platform Minigame Server.
 # What is BedPFS?
 **BedPFS is a Bedrock and Java Edition minigame server. 
-Come play on PC, macOS, Linux, iOS, Fridge, and more!**
+Come play on PC, macOS, Linux, Android, iOS, Fridge, and more!**
 
 [Discord](/discord)
 
