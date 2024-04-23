@@ -9,6 +9,7 @@
 Come play on PC, macOS, Linux, iOS, Fridge, and more!**
 
 [Discord](/discord)
+
 [Server Ip](/docs/join)
 
 # Key Features
