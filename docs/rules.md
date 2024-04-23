@@ -1,3 +1,5 @@
+- [Back >>](/docs)
+
 ### BedPFS Rules
 
 Rules for the BedPFS server and discord
