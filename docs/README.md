@@ -101,6 +101,8 @@ Certainly! it's Completely Free to Play For Bedrock And Java. Whether Your on PC
 
 - [Discord](https://bedpfs.krafterdev.xyz/discord/)
 
+- [Issue Forum](/org/issues/)
+
 
 
 _________________________________________________________ 
