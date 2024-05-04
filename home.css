@@ -5,6 +5,36 @@
 	font-family: "Nunito", sans-serif;
 }
 
+@keyframes card-hover {
+  from {scale: 100%;}
+  to {scale: 105%;}
+}
+
+@keyframes card-no-hover {
+  from {scale: 105%;}
+  to {scale: 100%;}
+}
+
+@keyframes fade-in {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+.bedwars:hover {
+  animation: card-hover 0.8s;
+  scale: 105%;
+}
+
+.factions:hover {
+  animation: card-hover 0.8s;
+  scale: 105%;
+}
+
+.kitpvp:hover {
+  animation: card-hover 0.8s;
+  scale: 105%;
+}
+
 body {
   background-color: #151515;
 
@@ -54,6 +84,8 @@ body {
   margin-right: 5px;
   margin-bottom: 10px;
   margin-top: 20px;
+  animation: card-no-hover 0.8s;
+  scale: 100%;
 }
 
 .factions {
@@ -69,6 +101,8 @@ body {
   margin-right: 5px;
   margin-bottom: 10px;
   margin-top: 20px;
+  animation: card-no-hover 0.8s;
+  scale: 100%;
 }
 
 .kitpvp {
@@ -84,22 +118,15 @@ body {
   margin-left: 5px;
   margin-right: 5px;
   margin-top: 20px;
+  animation: card-no-hover 0.8s;
+  scale: 100%;
 }
 
-.btn2 {
-  background: none;
-  border: none;
-  text-align: center;
-  font-size: 1rem;
-  color: whitesmoke;
-  background-color: #88304E;
-  padding: 0.8rem 1.8rem;
-  border-radius: 2rem;
-  cursor: pointer;
-  margin: 0;
-  position: relative;
-  top: 15px;
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
 }
+
 
 .container {
   min-height: 100vh;
@@ -123,6 +150,8 @@ body {
   padding: 1.5rem;
   z-index: 10;
   color: whitesmoke;
+  animation: fade-in 0.7s;
+  animation-delay: 1ms;
 }
 
 .title {
@@ -151,6 +180,8 @@ body {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  animation: fade-in 0.7s;
+  animation-delay: 1ms;
 }
 
 .footer-section-1 {
@@ -204,5 +235,4 @@ a {
   text-decoration: none;
   color: #9a9a9a;
 }
-
 
