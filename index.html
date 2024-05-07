@@ -4,42 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="src/favicon.png" type="image/x-icon">
-    <script src="/script.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="script.js"></script>
     <link rel="stylesheet" href="home.css">
     <title>BedPFS</title>
 </head>
 <body>
     <section class="header">
-        <div class="Navbar">
-            <div class="Navbar__Link Navbar__Link-brand">
-                <p style="font-size: 1.5rem; font-family: Arial, Helvetica, sans-serif;">BedPFS</p>
-             </div>
-             <div class="Navbar__Link Navbar__Link-toggle">
-                <i class="fa fa-bars" aria-hidden="true"></i>
-             </div>
-           <nav class="Navbar__Items">
-           </nav>
-           <nav class="Navbar__Items Navbar__Items--right">
-             <div class="Navbar__Link">
-               <a href="/">Home</a>
-             </div>
-             <div class="Navbar__Link">
-               <a href="org/contact/">Contact Us</a>
-             </div>
-             <div class="Navbar__Link">
-                <a href="/org/about/">About Us</a>
-             </div>
-             <div class="Navbar__Link">
-                <a href="/docs/?id=faq">FAQ</a>
-             </div>
-           </nav>
-         </div>
+        <nav class="nav">
+            <i class="uil uil-bars navOpenBtn"></i>
+            <a href="/" class="logo">BedPFS</a>
+            <ul class="nav-links">
+              <i class="uil uil-times navCloseBtn"></i>
+              <li><a href="/">Home</a></li>
+              <li><a href="/discord/">Discord</a></li>
+              <li><a href="/docs/?id=faq">FAQ</a></li>
+              <li><a href="/org/about/">About Us</a></li>
+              <li><a href="/org/contact/">Contact Us</a></li>
+            </ul>
+          </nav>
     </section>
     <section class="hero">
     <div class="flex-container">
         <div class="flex-items">
-            <h1>The First Ever <u class="sub-color">Cross Platform</u> MiniGame Server</h1>
+            <h1>BedPFS The First Ever<br><u class="sub-color"> Cross Platform</u> MiniGame Server</h1>
             <p style="font-size: 1.2rem;">It's <u class="sub-color">Free!</u> Join The Discord Below</p>
             <button class="btn-hero" role="button" onclick="document.location='/discord'"><span class="text">Click Here!</span><span>Join?</span></button>
         </div>
