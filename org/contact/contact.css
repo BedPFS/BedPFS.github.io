@@ -6,6 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 
+
 .header {
     width: 100%;
     height: 100px;
@@ -75,8 +76,8 @@
   .search-box input {
     height: 100%;
     width: 100%;
-    border: 1px;
-    outline: #11101d;
+    border: none;
+    outline: none;
     border-radius: 6px;
     background-color: #fff;
     padding: 0 15px 0 45px;
@@ -183,7 +184,6 @@ img {
 }
 
 /* Section 1 */
-
 
 /* footer */
 
