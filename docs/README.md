@@ -107,4 +107,4 @@ Certainly! it's Completely Free to Play For Bedrock And Java. Whether Your on PC
 
 _________________________________________________________ 
 
-©️ 2024 [A53o](https://a53o.github.io) All Rights Reserved
+<p>&copy; 2024 BedPFS, inc</p>
