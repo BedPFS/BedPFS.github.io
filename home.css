@@ -10,17 +10,7 @@
     to {scale: 100%;}
   }
 
-  .bedwars:hover {
-    animation: card-hover 0.8s;
-    scale: 105%;
-  }
-  
-  .factions:hover {
-    animation: card-hover 0.8s;
-    scale: 105%;
-  }
-  
-  .kitpvp:hover {
+  .cards:hover {
     animation: card-hover 0.8s;
     scale: 105%;
   }
@@ -359,41 +349,7 @@ img {
     order: 0;
   }
 
-  .bedwars {
-    flex-basis: 200;
-    height: 400px;
-    width: 300px;
-    text-align: center;
-    background: rgba( 255, 255, 255, 0.15 );
-    box-shadow: 0 8px 32px 0 black ( 31, 38, 135, 0.37 );
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
-    border-radius: 1rem;
-    margin-left: 7px;
-    margin-right: 7px;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    animation: card-no-hover 0.8s;
-    scale: 100%;
-  }
-
-  .factions {
-    flex-basis: 200;
-    height: 400px;
-    width: 300px;
-    text-align: center;
-    background: rgba( 255, 255, 255, 0.15 );
-    box-shadow: 0 8px 32px 0 black ( 31, 38, 135, 0.37 );
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
-    border-radius: 1rem;
-    margin-left: 7px;
-    margin-right: 7px;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    animation: card-no-hover 0.8s;
-    scale: 100%;
-  }
-
-  .kitpvp {
+  .cards {
     flex-basis: 200;
     height: 400px;
     width: 300px;
